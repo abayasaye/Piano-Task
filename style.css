@@ -1,0 +1,57 @@
+body{
+    background-color: #051367;
+    
+}   
+.piano-white{
+        
+}
+.white-p{
+    background-color:#ffffff;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 60px;
+    width: 500px;    
+}
+.white-p:hover{
+    background-image: linear-gradient(to right, white,gray);
+    box-shadow: 10px 10px 10px ;
+}
+
+.black-p div{
+    background-color:#000000;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    height: 40px;
+    width: 245px;
+
+}
+
+.black-p div:hover{
+    background-image: linear-gradient(to right,black,gray);
+    box-shadow: 5px 3px 5px ;
+}
+.black-p1{
+    position: absolute;
+    top:8%;
+}
+.black-p2{
+    position: absolute;
+    top:18%;
+}
+.black-p3{
+    position: absolute;
+    top: 50%;
+}
+
+.black-p4{
+    position: absolute;
+    top: 60%;
+}    
+.black-p5{
+    position: absolute;
+    top: 90%;
+}
+.black-p6{
+    position: absolute;
+    top: 100%;
+}
