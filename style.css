@@ -14,7 +14,7 @@ body{
 }
 .white-p:hover{
     background-image: linear-gradient(to right, white,gray);
-    box-shadow: 10px 10px 10px ;
+    box-shadow: 3px 5px 3px 5px ;
 }
 
 .black-p div{
@@ -28,7 +28,7 @@ body{
 
 .black-p div:hover{
     background-image: linear-gradient(to right,black,gray);
-    box-shadow: 5px 3px 5px ;
+    box-shadow: 5px 3px 5px 3px ;
 }
 .black-p1{
     position: absolute;
